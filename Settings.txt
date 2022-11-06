@@ -1,0 +1,3 @@
+#'int' Interactive Mode
+#'int' Argument Modes
+Opration_Mode=int
